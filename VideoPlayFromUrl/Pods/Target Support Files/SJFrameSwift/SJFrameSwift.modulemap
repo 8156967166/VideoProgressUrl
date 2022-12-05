@@ -1,0 +1,6 @@
+framework module SJFrameSwift {
+  umbrella header "SJFrameSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
